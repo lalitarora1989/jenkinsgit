@@ -8,6 +8,6 @@ public class Welcome
 {
     public static void main( String[] args )
     {
-        System.out.println( "Welcome World! From Jenkins" );
+        System.out.println( "Welcome to Java From Jenkins" );
     }
 }
